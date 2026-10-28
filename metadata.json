@@ -1,0 +1,10 @@
+{
+  "name": "CosmoChat",
+  "description": "Real-time messenger with voice messages, phone authentication, user profiles, and administration features powered by Firebase.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
